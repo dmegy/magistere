@@ -21,7 +21,7 @@ En plus des enseignements de L3, M1 et M2, les étudiant(e)s suivent 5 enseignem
 Enfin, les étudiant(e)s du Magistère doivent effectuer les activités supplémentaires suivantes :
 - un mémoire d’initiation à la recherche au niveau L3
 - un stage d’application des mathématiques en M1
-- deux “Master Class”, une en M1, une en M2 (conférences avec mini-cours d'initiation à la recherche par des chercheurs invités)
+- deux “Masterclasses”, une en M1, une en M2 (conférences avec mini-cours d'initiation à la recherche par des chercheurs invités, voir par exemple le site de la masterclass M1 2025 : [géométrie riemannienne et équations aux dérivées partielles](https://iecl.univ-lorraine.fr/masterclassm12025/))
 - un séminaire du Magistère mensuel d’initiation à la recherche
 - des séances de problèmes d'écrit pour les étudiant(e)s souhaitant préparer les concours des ENS Rennes et Saclay ou de l'école Polytechnique en fin de première année.
 
