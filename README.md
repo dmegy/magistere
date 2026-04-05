@@ -4,9 +4,6 @@ Page d'informations pour le Magistère de Mathématiques de Nancy, aussi connu s
 Le site officiel de la formation est [https://iecl.univ-lorraine.fr/magistere-poincare/](https://iecl.univ-lorraine.fr/magistere-poincare/).
 Cette page github en est un quasi-miroir.
 
-📣 ANNONCE 📣
-Portes ouvertes de la faculté de sciences et Technologies de Nancy le samedi 1er mars 2025 
-
 ## Qu'est-ce qu'un magistère ?
 
 Le magistère est un diplôme universitaire français créé en 1985. Il s'agit d'une formation d'excellence en trois ans proposée en double cursus, en parallèle d'une inscription en L3, M1 et M2. Pour plus d'informations générales et la liste de tous les magistères de France, voir la [page wikipedia des magistères](https://fr.wikipedia.org/wiki/Magist%C3%A8re_(dipl%C3%B4me))
@@ -25,7 +22,7 @@ Enfin, les étudiant(e)s du Magistère doivent effectuer les activités supplém
 - un mémoire d’initiation à la recherche au niveau L3, encadré par un•e enseignant•e-chercheur•se 
 - un stage d’application des mathématiques en M1
 - deux “Masterclasses”, une en M1, une en M2 (conférences avec mini-cours d'initiation à la recherche par des chercheurs invités, précédentes éditions : [2022](https://iecl.univ-lorraine.fr/masterclass-m1-mathematiques-appliquees-et-fondamentales-du-13-au-17-juin-a-nancy/), [2023](https://iecl.univ-lorraine.fr/masterclass2023/), [2024](https://dev-iecl.univ-lorraine.fr/masterclassm12024/), [2025](https://iecl.univ-lorraine.fr/masterclassm12025/))
-- un séminaire du Magistère mensuel d’initiation à la recherche
+- un séminaire du Magistère mensuel d’initiation à la recherche : programme 2025-2026 sur la [page de la L3](https://github.com/dmegy/L3/blob/main/magistere/seminaire-magistere-2025-2026.md)
 - des séances de problèmes d'écrit pour les étudiant(e)s souhaitant préparer les concours des ENS Rennes et Saclay ou de l'école Polytechnique en fin de première année.
 
 Description des cours, volumes horaires et ECTS sur le [site officiel](https://iecl.univ-lorraine.fr/magistere-poincare/).
@@ -35,7 +32,9 @@ Description des cours, volumes horaires et ECTS sur le [site officiel](https://i
 Les préinscriptions sont ouvertes, prendre contact avec les responsables via le site officiel [https://iecl.univ-lorraine.fr/magistere-poincare/](https://iecl.univ-lorraine.fr/magistere-poincare/).
 Les inscriptions se font via la plateforme [https://ecandidat.univ-lorraine.fr/](https://ecandidat.univ-lorraine.fr/) 
 
-ATTENTION, il faut *deux* inscriptions : l'une en L3 de mathématiques à Nancy, cursus "mathématiques et applications", l'autre en Magistère.
+ATTENTION, afin de simplifier le processus pour les candidat(e)s, il suffit de faire une seule inscription sur ecandidat : la formation à choisir est "DU Magistère de mathématiques Poincaré". 
+
+Il n'est donc pas nécessaire de postuler en parallèle en L3 pour les candidat(e)s au magistère. En cas d'admission en magistère, une candidature en L3 sera automatiquement créée et validée par l'équipe pédagogique. En septembre, il sera cependant obligatoire d'effectuer une inscription administrative à la fois en L3 et en magistère.
 
 ## Quels sont les autres magistères de mathématiques en France ? Quelles sont les formations équivalentes ?
 
